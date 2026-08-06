@@ -7,5 +7,4 @@ Este arquivo foi criado conforme solicitado.
 Mais conteúdo aqui.
 
 Linha de exemplo.
-
-#gif
+GIF
